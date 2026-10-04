@@ -1,0 +1,30 @@
+#######################################
+# TimbanganHX711
+#######################################
+
+TimbanganHX711	KEYWORD1
+
+mulai	KEYWORD2
+perbarui	KEYWORD2
+berat	KEYWORD2
+mentah	KEYWORD2
+siap	KEYWORD2
+status	KEYWORD2
+alasan	KEYWORD2
+tara	KEYWORD2
+kalibrasi	KEYWORD2
+sedangMengukur	KEYWORD2
+offset	KEYWORD2
+faktor	KEYWORD2
+aturOffset	KEYWORD2
+aturFaktor	KEYWORD2
+aturPenghalusan	KEYWORD2
+aturGain	KEYWORD2
+tidur	KEYWORD2
+bangun	KEYWORD2
+
+OK	LITERAL1
+BELUM_SIAP	LITERAL1
+TIDAK_TERHUBUNG	LITERAL1
+DI_LUAR_RENTANG	LITERAL1
+TIDUR	LITERAL1
